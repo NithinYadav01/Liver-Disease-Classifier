@@ -25,6 +25,13 @@ The Support Vector Classifier (SVC) has been found to be the most effective for 
     accuracy                           0.70       175
    macro avg       0.60      0.62      0.61       175
 weighted avg       0.74      0.70      0.72       175
+# Conclusion
+
+In summary, machine learning is becoming more crucial in healthcare research, especially in studying liver diseases. These algorithms analyze big sets of data, find patterns, and make predictions, helping us discover new information about what causes liver diseases and how to treat them. In the future, we expect to see more use of machine learning in this field, playing a big part in enhancing our understanding of this important health issue.
+# Contributors
+Daraveni Nithin Yadav
+Katam Sai Deepak Reddy
+
 
        
 
