@@ -19,10 +19,15 @@ The code for this project is written in Python . The code is available in the li
 The Support Vector Classifier (SVC) has been found to be the most effective for liver disease prediction. Its superior performance over other algorithms such as KNN, random forest, and logistic regression, indicates that SVC is the best choice for live disease prediction. Its ability to efficiently handle large datasets, its robustness to noise, and its high accuracy make it an ideal choice for such applications. With SVC, we can make more accurate predictions in real time, which can help in early detection of diseases and improve patient outcomes
 
                precision   recall  f1-score   support
+
            0       0.36      0.47      0.41        38
+
            1       0.84      0.77      0.80       137
+
     accuracy                           0.70       175
+
    macro avg       0.60      0.62      0.61       175
+
 weighted avg       0.74      0.70      0.72       175
 
 # Conclusion
